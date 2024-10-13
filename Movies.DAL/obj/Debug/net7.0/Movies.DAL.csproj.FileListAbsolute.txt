@@ -1,0 +1,12 @@
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\bin\Debug\net7.0\Movies.DAL.deps.json
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\bin\Debug\net7.0\Movies.DAL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\bin\Debug\net7.0\Movies.DAL.pdb
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.csproj.AssemblyReference.cache
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.AssemblyInfoInputs.cache
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.AssemblyInfo.cs
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\refint\Movies.DAL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\Movies.DAL.pdb
+C:\Users\AHMED\source\repos\Movies\Movies.DAL\obj\Debug\net7.0\ref\Movies.DAL.dll

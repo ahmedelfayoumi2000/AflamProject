@@ -1,0 +1,15 @@
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\bin\Debug\net7.0\Movies.BLL.deps.json
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\bin\Debug\net7.0\Movies.BLL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\bin\Debug\net7.0\Movies.BLL.pdb
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\bin\Debug\net7.0\Movies.DAL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\bin\Debug\net7.0\Movies.DAL.pdb
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.csproj.AssemblyReference.cache
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.AssemblyInfoInputs.cache
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.AssemblyInfo.cs
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.csproj.CopyComplete
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\refint\Movies.BLL.dll
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\Movies.BLL.pdb
+C:\Users\AHMED\source\repos\Movies\Movies.BLL\obj\Debug\net7.0\ref\Movies.BLL.dll
